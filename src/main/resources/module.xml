@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <i18n>
+        <resource name="jtheque-demo-module-1" version="1.0">
+            <classpath>org/jtheque/demos/first/i18n/first_en.properties</classpath>
+            <classpath>org/jtheque/demos/first/i18n/first_fr.properties</classpath>
+        </resource>
+    </i18n>
+</config>
